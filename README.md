@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Aditya Singh 
-- 👀 I’m interested in coding 
-- 🌱 I’m currently learning python
+Hi, I'm Aditya Singh!
+ 3rd-Year Data Science Student 
+ Experienced in Python, Django, Machine Learning, and SQL
 
-<!---
-singhadi01/singhadi01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My Tech Stack
+ Programming: Python, SQL
+ Frameworks & Tools: Django, Pandas, NumPy, Matplotlib
+ Web Dev: HTML, CSS
+Data Science & AI: Machine Learning,Data Analysis using Python
