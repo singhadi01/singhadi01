@@ -64,6 +64,6 @@ Interactive Power BI and Tableau dashboards providing actionable business insigh
 
 ## 📫 Connect With Me
 
-- LinkedIn: www.linkedin.com/in/aditya-singh-2a9803276
+- LinkedIn: www.linkedin.com/in/aditya-singh-63a389264
 - GitHub: https://github.com/singhadi01
 - Email: singhaditya270305@gmail.com
